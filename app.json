@@ -7,8 +7,8 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/rihankumar/txt_leech",
-    "success_url": "https://t.me/paidcoursefreemeha",
+    "repository": "https://github.com/Rajmaterbot/txt_leech",
+    "success_url": "https://t.me/+019Bt0cZJJVkMzM1",
     "stack": "container",
     "env": {
         "API_ID": {
